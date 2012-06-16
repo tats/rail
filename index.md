@@ -16,7 +16,7 @@ converts mule-version to Japanese characters).
 Download
 --------
 
-### Stable: Gem and tar.gz is available:
+### Stable: tar.gz is available:
 
 * [rail-1.2.7.tar.gz](pkg/rail-1.2.7.tar.gz)
 
