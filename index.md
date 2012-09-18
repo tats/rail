@@ -3,7 +3,7 @@ layout: default
 title: Rail -- Replace Agent-String Internal Library
 ---
 
-What's Rail?
+What is Rail?
 ------------
 
 RAIL is a elisp library, translates codenames with latin chars of
@@ -13,7 +13,7 @@ irchat-pj, Japanize code name for "CTCP VERSION" return string).
 It also provides a function compatible with genjis.el (a partof tm, that
 converts mule-version to Japanese characters).
 
-![wanderlust_with_or_without_rails](http://uwabami.github.com/rail/images/wanderlust_with_or_without_rails.png)
+![wanderlust_with_or_without_rails](https://raw.github.com/uwabami/rail/gh-pages/images/wanderlust_with_or_without_rail.png)
 
 Download
 --------
