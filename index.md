@@ -30,7 +30,7 @@ Download
 install
 -------
 
-* require: emacsen (I always use Emacs23.2)
+* require: emacsen (I always use Emacs24.2)
 
 <pre>
   $ tar xvzf rail-(version).tar.gz
@@ -39,7 +39,7 @@ install
   $ sudo make install
 </pre>
 
-enjoy!!
+or use [el-get recipe](https://github.com/uwabami/dot.emacs.d/blob/master/recipes/rail.rcp).
 
 License
 -------
