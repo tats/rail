@@ -13,6 +13,8 @@ irchat-pj, Japanize code name for "CTCP VERSION" return string).
 It also provides a function compatible with genjis.el (a partof tm, that
 converts mule-version to Japanese characters).
 
+![wanderlust_with_or_without_rails](http://uwabami.github.com/rail/images/wanderlust_with_or_without_rails.png)
+
 Download
 --------
 
