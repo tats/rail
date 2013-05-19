@@ -20,7 +20,7 @@ Download
 
 ### Stable: tar.gz is available:
 
-* [rail-1.2.7.tar.gz](pkg/rail-1.2.7.tar.gz)
+* [rail-1.2.8.tar.gz](pkg/rail-1.2.8.tar.gz)
 
 ### HEAD: GitHub: [uwabami/rail](https://github.com/uwabami/rail/)
 
@@ -30,7 +30,7 @@ Download
 install
 -------
 
-* require: emacsen (I always use Emacs24.2)
+* require: emacsen (I always use Emacs24.3)
 
 <pre>
   $ tar xvzf rail-(version).tar.gz
